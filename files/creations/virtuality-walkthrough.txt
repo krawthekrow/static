@@ -1,0 +1,244 @@
+Solution to "Virtuality" by Mark
+
+X COIN ... This walkthrough will show you all the possible endings of the Computer Room.
+Z ... The HAPPY ending, which happens to be the longest one, is the one that scores the most points.
+Z ... 2925 points comes from maxing all statistics in the least number of moves.
+STATS ... Don't just copy and paste. Certain actions are fake and you will have to follow my instructions to use them.
+ACHIEVEMENTS
+TAKE GLASS ... take manual leads to the correct ending.
+Choice:
+  TAKE MANUAL -> go to branch (1)
+  POUR WATER ON COMPUTER -> go to branch (2) ... Just stupid.
+
+Branch (1)
+SEARCH BIN ... help leads to the correct ending.
+Choice:
+  HELP -> go to branch (1.1)
+  EAT CHOCOLATE -> go to branch (1.2) ... Quite stupid too.
+
+Branch (1.1)
+OPEN BOX
+ENTER BOX
+CLOSE BOX
+MEDITATE
+G
+G
+G
+G
+G
+G
+G
+G
+G
+OPEN BOX
+EXIT
+X MACHINE
+FIX MACHINE
+PRESS BUTTON
+X GLASS
+X MANUAL
+X CHOCOLATE
+X PAPER
+GIVE BOWL TO KING
+PUT BOWL INTO MACHINE
+PRESS BUTTON
+POUR WATER ON MYSELF
+SIT ON THRONE
+X COMPUTER
+X MONITOR
+EAT BOWL
+PUT BOWL INTO MACHINE
+PRESS BUTTON
+X DRIVE
+X THRONE
+X KING
+X SCREWDRIVER
+EAT BOWL
+X BUTTON
+X BOWL
+X LAWS
+READ LAWS
+CONSULT LAWS ABOUT ROBBERY
+CONSULT LAWS ABOUT MURDER
+CONSULT LAWS ABOUT SUBMISSION
+CONSULT LAWS ABOUT PUNISHMENTS
+ASK KING ABOUT HIS FACE
+ASK KING ABOUT STORY
+ASK KING ABOUT WAR
+ASK KING ABOUT DIAMOND
+ASK KING ABOUT ZOGZOLARR
+ASK KING ABOUT XETTERMANN
+ASK KING ABOUT PLIGGARD
+ASK KING ABOUT RUMMINANY
+X SINK
+X TAP
+X BIN
+SEARCH BIN
+X TABLE
+X BOX
+X SCISSORS
+WASH SCISSORS
+WASH SCISSORS ... fake attack king leads to the correct ending.
+FAKE ATTACK KING ... This action does not exist. It means to keep attacking and undoing until you deal 1 damage and the king misses.
+FAKE ATTACK KING ... Don't keep restarting to keep a clean sheet. The chances of getting it all correct on your first try is 1/243.
+FAKE ATTACK KING
+TAKE DRIVE
+TAKE LAWS
+ENTER BOX
+CLOSE BOX
+MEDITATE
+G
+G
+OPEN BOX
+EXIT
+X SWITCH
+X VR
+X BOBBY
+X WIRE
+X COMPUTER
+X MONITOR
+X KEYBOARD
+X CHAIR
+X TABLE
+X BIN
+FLICK SWITCH
+ENTER VR
+X COMPARTMENT
+X PANEL
+X START
+X STOP
+X CONTROLS
+X SLOT
+PRESS STOP
+USE COIN
+PRESS START
+Z
+N
+CUT WIRE
+READ PAPER ... To decode: Find synonym, take letter that is capitalised. eg cAnine=dOg=o for first 3 characters, last 2 addition. Remember as password.
+PUT DRIVE INTO COMPUTER ... canine=dog, feline=cat, rodent=rat, notepadfileextension=txt, powerpointfileextension=ppt, websitefileextension=html, animalpark=zoo, fishpark=aquarium, birdpark=aviary
+USE COMPUTER
+PAUSE
+[ENTER]
+HELP
+J:
+CD INSTALLATIONS
+VER
+UPGRADER.EXE
+VER
+PICTUREDECODER.EXE
+C:\DATA\PHOTO.JPG
+EXIT
+C:
+CD PROGRAM FILES
+BRANDONSMITH
+MASTER PASSWORD ... Instead of entering master password, enter the password from the slip of paper.
+VIRUS.BAT
+EXIT
+TAKE DRIVE
+FLICK SWITCH
+ENTER VR
+UNSCREW COMPARTMENT
+TAKE MICROCHIP
+FLICK SWITCH
+EXIT
+PUT MICROCHIP INTO COMPUTER
+USE COMPUTER
+HACKER.BAT
+EXIT
+TAKE MICROCHIP
+FLICK SWITCH
+ENTER VR
+PUT MICROCHIP INTO COMPARTMENT
+PRESS START
+N
+N
+N
+N
+N
+TAKE MICROCHIP
+FLICK SWITCH
+EXIT
+X MICROCHIP
+USE COMPUTER
+SELFDESTRUCT.EXE
+EXIT ... enter box leads to the correct ending.
+Choice:
+  ENTER BOX -> go to branch (1.1.1) ... Just enough time to escape.
+  Z -> go to branch (1.1.2) ... May sound stupid, but some players may stumble under time stress.
+
+Branch (1.1.1)
+CLOSE BOX
+MEDITATE
+G
+G
+OPEN BOX
+EXIT
+PUT THUMB DRIVE INTO COMPUTER
+TAKE THUMB DRIVE
+ENTER BOX
+CLOSE BOX
+MEDITATE
+G
+G
+G
+OPEN BOX
+EXIT
+X RUINS ... search ruins leads to the correct ending.
+Choice:
+  SEARCH RUINS -> go to branch (1.1.1.1) ... Quite hard to spot.
+  N -> go to branch (1.1.1.2)
+
+Branch (1.1.1.1)
+X PICTURE
+X DOOR
+OPEN DOOR
+E
+[ENTER]
+[ENTER]
+[ENTER] ... HAPPY ending!!!
+
+Branch (1.1.1.2)
+[ENTER]
+[ENTER]
+[ENTER] ... Normal ending.
+
+Branch (1.1.2)
+Z
+Z
+Z
+Z
+Z
+Z
+[ENTER]
+[ENTER]
+[ENTER] ... And you die.
+
+Branch (1.2)
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+[ENTER]
+[ENTER] ... And you die.
+
+Branch (2)
+[ENTER]
+[ENTER]
+[ENTER] ... And you die.
